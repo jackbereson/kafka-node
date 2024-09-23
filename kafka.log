@@ -1,0 +1,150 @@
+2024-09-23T09:22:07.354Z [[32minfo[39m]: undefined [WARN]: KafkaJS v2.0.0 switched default partitioner. To retain the same partitioning behavior as in previous versions, create the producer with the option "createPartitioner: Partitioners.LegacyPartitioner". See the migration guide at https://kafka.js.org/docs/migration-guide-v2.0.0#producer-new-default-partitioner for details. Silence this warning by setting the environment variable "KAFKAJS_NO_PARTITIONER_WARNING=1"
+2024-09-23T09:22:07.393Z [[32minfo[39m]: Kafka producer connected
+2024-09-23T09:22:07.408Z [[32minfo[39m]: Connection [ERROR]: Connection error: getaddrinfo ENOTFOUND kafka
+2024-09-23T09:22:07.413Z [[32minfo[39m]: Connection [ERROR]: Connection error: getaddrinfo ENOTFOUND kafka
+2024-09-23T09:22:07.417Z [[32minfo[39m]: Producer [ERROR]: Failed to send messages: Connection error: getaddrinfo ENOTFOUND kafka
+2024-09-23T09:22:07.420Z [[32minfo[39m]: Connection [ERROR]: Connection error: getaddrinfo ENOTFOUND kafka
+2024-09-23T09:22:07.675Z [[32minfo[39m]: Connection [ERROR]: Connection error: getaddrinfo ENOTFOUND kafka
+2024-09-23T09:22:07.679Z [[32minfo[39m]: Connection [ERROR]: Connection error: getaddrinfo ENOTFOUND kafka
+2024-09-23T09:22:07.683Z [[32minfo[39m]: Producer [ERROR]: Failed to send messages: Connection error: getaddrinfo ENOTFOUND kafka
+2024-09-23T09:22:07.686Z [[32minfo[39m]: Connection [ERROR]: Connection error: getaddrinfo ENOTFOUND kafka
+2024-09-23T09:22:08.204Z [[32minfo[39m]: Connection [ERROR]: Connection error: getaddrinfo ENOTFOUND kafka
+2024-09-23T09:22:08.207Z [[32minfo[39m]: Connection [ERROR]: Connection error: getaddrinfo ENOTFOUND kafka
+2024-09-23T09:22:08.210Z [[32minfo[39m]: Producer [ERROR]: Failed to send messages: Connection error: getaddrinfo ENOTFOUND kafka
+2024-09-23T09:22:08.213Z [[32minfo[39m]: Connection [ERROR]: Connection error: getaddrinfo ENOTFOUND kafka
+2024-09-23T09:22:09.238Z [[32minfo[39m]: Connection [ERROR]: Connection error: getaddrinfo ENOTFOUND kafka
+2024-09-23T09:22:09.241Z [[32minfo[39m]: Connection [ERROR]: Connection error: getaddrinfo ENOTFOUND kafka
+2024-09-23T09:22:09.245Z [[32minfo[39m]: Producer [ERROR]: Failed to send messages: Connection error: getaddrinfo ENOTFOUND kafka
+2024-09-23T09:22:09.247Z [[32minfo[39m]: Connection [ERROR]: Connection error: getaddrinfo ENOTFOUND kafka
+2024-09-23T09:22:11.337Z [[32minfo[39m]: Connection [ERROR]: Connection error: getaddrinfo ENOTFOUND kafka
+2024-09-23T09:22:11.339Z [[32minfo[39m]: Connection [ERROR]: Connection error: getaddrinfo ENOTFOUND kafka
+2024-09-23T09:22:11.342Z [[32minfo[39m]: Producer [ERROR]: Failed to send messages: Connection error: getaddrinfo ENOTFOUND kafka
+2024-09-23T09:22:11.345Z [[32minfo[39m]: Connection [ERROR]: Connection error: getaddrinfo ENOTFOUND kafka
+2024-09-23T09:22:16.021Z [[32minfo[39m]: Connection [ERROR]: Connection error: getaddrinfo ENOTFOUND kafka
+2024-09-23T09:22:16.024Z [[32minfo[39m]: Connection [ERROR]: Connection error: getaddrinfo ENOTFOUND kafka
+2024-09-23T09:22:16.027Z [[32minfo[39m]: Producer [ERROR]: Failed to send messages: Connection error: getaddrinfo ENOTFOUND kafka
+2024-09-23T09:22:16.029Z [[32minfo[39m]: Connection [ERROR]: Connection error: getaddrinfo ENOTFOUND kafka
+2024-09-23T09:22:16.033Z [[31merror[39m]: Connection error: getaddrinfo ENOTFOUND kafka
+2024-09-23T09:22:41.620Z [[32minfo[39m]: undefined [WARN]: KafkaJS v2.0.0 switched default partitioner. To retain the same partitioning behavior as in previous versions, create the producer with the option "createPartitioner: Partitioners.LegacyPartitioner". See the migration guide at https://kafka.js.org/docs/migration-guide-v2.0.0#producer-new-default-partitioner for details. Silence this warning by setting the environment variable "KAFKAJS_NO_PARTITIONER_WARNING=1"
+2024-09-23T09:22:41.654Z [[32minfo[39m]: Kafka producer connected
+2024-09-23T09:22:41.669Z [[32minfo[39m]: Connection [ERROR]: Connection error: getaddrinfo ENOTFOUND kafka
+2024-09-23T09:22:41.674Z [[32minfo[39m]: Connection [ERROR]: Connection error: getaddrinfo ENOTFOUND kafka
+2024-09-23T09:22:41.678Z [[32minfo[39m]: Producer [ERROR]: Failed to send messages: Connection error: getaddrinfo ENOTFOUND kafka
+2024-09-23T09:22:41.681Z [[32minfo[39m]: Connection [ERROR]: Connection error: getaddrinfo ENOTFOUND kafka
+2024-09-23T09:22:42.000Z [[32minfo[39m]: Connection [ERROR]: Connection error: getaddrinfo ENOTFOUND kafka
+2024-09-23T09:22:42.003Z [[32minfo[39m]: Connection [ERROR]: Connection error: getaddrinfo ENOTFOUND kafka
+2024-09-23T09:22:42.006Z [[32minfo[39m]: Producer [ERROR]: Failed to send messages: Connection error: getaddrinfo ENOTFOUND kafka
+2024-09-23T09:22:42.010Z [[32minfo[39m]: Connection [ERROR]: Connection error: getaddrinfo ENOTFOUND kafka
+2024-09-23T09:22:42.608Z [[32minfo[39m]: Connection [ERROR]: Connection error: getaddrinfo ENOTFOUND kafka
+2024-09-23T09:22:42.611Z [[32minfo[39m]: Connection [ERROR]: Connection error: getaddrinfo ENOTFOUND kafka
+2024-09-23T09:22:42.614Z [[32minfo[39m]: Producer [ERROR]: Failed to send messages: Connection error: getaddrinfo ENOTFOUND kafka
+2024-09-23T09:22:42.617Z [[32minfo[39m]: Connection [ERROR]: Connection error: getaddrinfo ENOTFOUND kafka
+2024-09-23T09:22:43.892Z [[32minfo[39m]: Connection [ERROR]: Connection error: getaddrinfo ENOTFOUND kafka
+2024-09-23T09:22:43.895Z [[32minfo[39m]: Connection [ERROR]: Connection error: getaddrinfo ENOTFOUND kafka
+2024-09-23T09:22:43.898Z [[32minfo[39m]: Producer [ERROR]: Failed to send messages: Connection error: getaddrinfo ENOTFOUND kafka
+2024-09-23T09:22:43.901Z [[32minfo[39m]: Connection [ERROR]: Connection error: getaddrinfo ENOTFOUND kafka
+2024-09-23T09:22:46.691Z [[32minfo[39m]: Connection [ERROR]: Connection error: getaddrinfo ENOTFOUND kafka
+2024-09-23T09:22:46.693Z [[32minfo[39m]: Connection [ERROR]: Connection error: getaddrinfo ENOTFOUND kafka
+2024-09-23T09:22:46.697Z [[32minfo[39m]: Producer [ERROR]: Failed to send messages: Connection error: getaddrinfo ENOTFOUND kafka
+2024-09-23T09:22:46.699Z [[32minfo[39m]: Connection [ERROR]: Connection error: getaddrinfo ENOTFOUND kafka
+2024-09-23T09:22:52.493Z [[32minfo[39m]: Connection [ERROR]: Connection error: getaddrinfo ENOTFOUND kafka
+2024-09-23T09:22:52.496Z [[32minfo[39m]: Connection [ERROR]: Connection error: getaddrinfo ENOTFOUND kafka
+2024-09-23T09:22:52.499Z [[32minfo[39m]: Producer [ERROR]: Failed to send messages: Connection error: getaddrinfo ENOTFOUND kafka
+2024-09-23T09:22:52.501Z [[32minfo[39m]: Connection [ERROR]: Connection error: getaddrinfo ENOTFOUND kafka
+2024-09-23T09:22:52.505Z [[31merror[39m]: Connection error: getaddrinfo ENOTFOUND kafka
+2024-09-23T09:23:10.161Z [[32minfo[39m]: undefined [WARN]: KafkaJS v2.0.0 switched default partitioner. To retain the same partitioning behavior as in previous versions, create the producer with the option "createPartitioner: Partitioners.LegacyPartitioner". See the migration guide at https://kafka.js.org/docs/migration-guide-v2.0.0#producer-new-default-partitioner for details. Silence this warning by setting the environment variable "KAFKAJS_NO_PARTITIONER_WARNING=1"
+2024-09-23T09:23:10.195Z [[32minfo[39m]: Kafka producer connected
+2024-09-23T09:23:10.210Z [[32minfo[39m]: Connection [ERROR]: Connection error: getaddrinfo ENOTFOUND kafka
+2024-09-23T09:23:10.215Z [[32minfo[39m]: Connection [ERROR]: Connection error: getaddrinfo ENOTFOUND kafka
+2024-09-23T09:23:10.219Z [[32minfo[39m]: Producer [ERROR]: Failed to send messages: Connection error: getaddrinfo ENOTFOUND kafka
+2024-09-23T09:23:10.222Z [[32minfo[39m]: Connection [ERROR]: Connection error: getaddrinfo ENOTFOUND kafka
+2024-09-23T09:23:10.551Z [[32minfo[39m]: Connection [ERROR]: Connection error: getaddrinfo ENOTFOUND kafka
+2024-09-23T09:23:10.554Z [[32minfo[39m]: Connection [ERROR]: Connection error: getaddrinfo ENOTFOUND kafka
+2024-09-23T09:23:10.558Z [[32minfo[39m]: Producer [ERROR]: Failed to send messages: Connection error: getaddrinfo ENOTFOUND kafka
+2024-09-23T09:23:10.561Z [[32minfo[39m]: Connection [ERROR]: Connection error: getaddrinfo ENOTFOUND kafka
+2024-09-23T09:23:11.187Z [[32minfo[39m]: Connection [ERROR]: Connection error: getaddrinfo ENOTFOUND kafka
+2024-09-23T09:23:11.190Z [[32minfo[39m]: Connection [ERROR]: Connection error: getaddrinfo ENOTFOUND kafka
+2024-09-23T09:23:11.193Z [[32minfo[39m]: Producer [ERROR]: Failed to send messages: Connection error: getaddrinfo ENOTFOUND kafka
+2024-09-23T09:23:11.195Z [[32minfo[39m]: Connection [ERROR]: Connection error: getaddrinfo ENOTFOUND kafka
+2024-09-23T09:23:12.667Z [[32minfo[39m]: Connection [ERROR]: Connection error: getaddrinfo ENOTFOUND kafka
+2024-09-23T09:23:12.670Z [[32minfo[39m]: Connection [ERROR]: Connection error: getaddrinfo ENOTFOUND kafka
+2024-09-23T09:23:12.673Z [[32minfo[39m]: Producer [ERROR]: Failed to send messages: Connection error: getaddrinfo ENOTFOUND kafka
+2024-09-23T09:23:12.676Z [[32minfo[39m]: Connection [ERROR]: Connection error: getaddrinfo ENOTFOUND kafka
+2024-09-23T09:23:15.695Z [[32minfo[39m]: Connection [ERROR]: Connection error: getaddrinfo ENOTFOUND kafka
+2024-09-23T09:23:15.698Z [[32minfo[39m]: Connection [ERROR]: Connection error: getaddrinfo ENOTFOUND kafka
+2024-09-23T09:23:15.701Z [[32minfo[39m]: Producer [ERROR]: Failed to send messages: Connection error: getaddrinfo ENOTFOUND kafka
+2024-09-23T09:23:15.703Z [[32minfo[39m]: Connection [ERROR]: Connection error: getaddrinfo ENOTFOUND kafka
+2024-09-23T09:23:20.874Z [[32minfo[39m]: Connection [ERROR]: Connection error: getaddrinfo ENOTFOUND kafka
+2024-09-23T09:23:20.877Z [[32minfo[39m]: Connection [ERROR]: Connection error: getaddrinfo ENOTFOUND kafka
+2024-09-23T09:23:20.880Z [[32minfo[39m]: Producer [ERROR]: Failed to send messages: Connection error: getaddrinfo ENOTFOUND kafka
+2024-09-23T09:23:20.883Z [[32minfo[39m]: Connection [ERROR]: Connection error: getaddrinfo ENOTFOUND kafka
+2024-09-23T09:23:20.886Z [[31merror[39m]: Connection error: getaddrinfo ENOTFOUND kafka
+2024-09-23T09:25:25.156Z [[32minfo[39m]: undefined [WARN]: KafkaJS v2.0.0 switched default partitioner. To retain the same partitioning behavior as in previous versions, create the producer with the option "createPartitioner: Partitioners.LegacyPartitioner". See the migration guide at https://kafka.js.org/docs/migration-guide-v2.0.0#producer-new-default-partitioner for details. Silence this warning by setting the environment variable "KAFKAJS_NO_PARTITIONER_WARNING=1"
+2024-09-23T09:25:25.195Z [[32minfo[39m]: Kafka producer connected
+2024-09-23T09:25:25.217Z [[32minfo[39m]: Connection [ERROR]: Connection error: getaddrinfo ENOTFOUND kafka
+2024-09-23T09:25:25.222Z [[32minfo[39m]: Connection [ERROR]: Connection error: getaddrinfo ENOTFOUND kafka
+2024-09-23T09:25:25.227Z [[32minfo[39m]: Producer [ERROR]: Failed to send messages: Connection error: getaddrinfo ENOTFOUND kafka
+2024-09-23T09:25:25.230Z [[32minfo[39m]: Connection [ERROR]: Connection error: getaddrinfo ENOTFOUND kafka
+2024-09-23T09:25:25.488Z [[32minfo[39m]: Connection [ERROR]: Connection error: getaddrinfo ENOTFOUND kafka
+2024-09-23T09:25:25.491Z [[32minfo[39m]: Connection [ERROR]: Connection error: getaddrinfo ENOTFOUND kafka
+2024-09-23T09:25:25.494Z [[32minfo[39m]: Producer [ERROR]: Failed to send messages: Connection error: getaddrinfo ENOTFOUND kafka
+2024-09-23T09:25:25.497Z [[32minfo[39m]: Connection [ERROR]: Connection error: getaddrinfo ENOTFOUND kafka
+2024-09-23T09:25:26.034Z [[32minfo[39m]: Connection [ERROR]: Connection error: getaddrinfo ENOTFOUND kafka
+2024-09-23T09:25:26.038Z [[32minfo[39m]: Connection [ERROR]: Connection error: getaddrinfo ENOTFOUND kafka
+2024-09-23T09:25:26.041Z [[32minfo[39m]: Producer [ERROR]: Failed to send messages: Connection error: getaddrinfo ENOTFOUND kafka
+2024-09-23T09:25:26.044Z [[32minfo[39m]: Connection [ERROR]: Connection error: getaddrinfo ENOTFOUND kafka
+2024-09-23T09:25:27.228Z [[32minfo[39m]: Connection [ERROR]: Connection error: getaddrinfo ENOTFOUND kafka
+2024-09-23T09:25:27.231Z [[32minfo[39m]: Connection [ERROR]: Connection error: getaddrinfo ENOTFOUND kafka
+2024-09-23T09:25:27.235Z [[32minfo[39m]: Producer [ERROR]: Failed to send messages: Connection error: getaddrinfo ENOTFOUND kafka
+2024-09-23T09:25:27.237Z [[32minfo[39m]: Connection [ERROR]: Connection error: getaddrinfo ENOTFOUND kafka
+2024-09-23T09:25:29.714Z [[32minfo[39m]: Connection [ERROR]: Connection error: getaddrinfo ENOTFOUND kafka
+2024-09-23T09:25:29.717Z [[32minfo[39m]: Connection [ERROR]: Connection error: getaddrinfo ENOTFOUND kafka
+2024-09-23T09:25:29.720Z [[32minfo[39m]: Producer [ERROR]: Failed to send messages: Connection error: getaddrinfo ENOTFOUND kafka
+2024-09-23T09:25:29.723Z [[32minfo[39m]: Connection [ERROR]: Connection error: getaddrinfo ENOTFOUND kafka
+2024-09-23T09:25:34.660Z [[32minfo[39m]: Connection [ERROR]: Connection error: getaddrinfo ENOTFOUND kafka
+2024-09-23T09:25:34.663Z [[32minfo[39m]: Connection [ERROR]: Connection error: getaddrinfo ENOTFOUND kafka
+2024-09-23T09:25:34.666Z [[32minfo[39m]: Producer [ERROR]: Failed to send messages: Connection error: getaddrinfo ENOTFOUND kafka
+2024-09-23T09:25:34.668Z [[32minfo[39m]: Connection [ERROR]: Connection error: getaddrinfo ENOTFOUND kafka
+2024-09-23T09:25:34.671Z [[31merror[39m]: Error in run: Connection error: getaddrinfo ENOTFOUND kafka
+2024-09-23T09:33:50.745Z [[32minfo[39m]: undefined [WARN]: KafkaJS v2.0.0 switched default partitioner. To retain the same partitioning behavior as in previous versions, create the producer with the option "createPartitioner: Partitioners.LegacyPartitioner". See the migration guide at https://kafka.js.org/docs/migration-guide-v2.0.0#producer-new-default-partitioner for details. Silence this warning by setting the environment variable "KAFKAJS_NO_PARTITIONER_WARNING=1"
+2024-09-23T09:33:50.773Z [[32minfo[39m]: Connection [ERROR]: Connection error: 
+2024-09-23T09:33:50.775Z [[32minfo[39m]: BrokerPool [ERROR]: Failed to connect to seed broker, trying another broker from the list: Connection error: 
+2024-09-23T09:33:51.079Z [[32minfo[39m]: Connection [ERROR]: Connection error: 
+2024-09-23T09:33:51.079Z [[32minfo[39m]: BrokerPool [ERROR]: Failed to connect to seed broker, trying another broker from the list: Connection error: 
+2024-09-23T09:33:51.711Z [[32minfo[39m]: Connection [ERROR]: Connection error: 
+2024-09-23T09:33:51.712Z [[32minfo[39m]: BrokerPool [ERROR]: Failed to connect to seed broker, trying another broker from the list: Connection error: 
+2024-09-23T09:33:53.054Z [[32minfo[39m]: Connection [ERROR]: Connection error: 
+2024-09-23T09:33:53.055Z [[32minfo[39m]: BrokerPool [ERROR]: Failed to connect to seed broker, trying another broker from the list: Connection error: 
+2024-09-23T10:38:15.907Z [[32minfo[39m]: undefined [WARN]: KafkaJS v2.0.0 switched default partitioner. To retain the same partitioning behavior as in previous versions, create the producer with the option "createPartitioner: Partitioners.LegacyPartitioner". See the migration guide at https://kafka.js.org/docs/migration-guide-v2.0.0#producer-new-default-partitioner for details. Silence this warning by setting the environment variable "KAFKAJS_NO_PARTITIONER_WARNING=1"
+2024-09-23T10:38:15.946Z [[32minfo[39m]: Kafka producer connected
+2024-09-23T10:38:15.989Z [[32minfo[39m]: Connection [ERROR]: Response Metadata(key: 3, version: 6)
+2024-09-23T10:38:16.272Z [[32minfo[39m]: Kafka consumer connected
+2024-09-23T10:38:16.275Z [[32minfo[39m]: Consumer [INFO]: Starting
+2024-09-23T10:38:19.330Z [[32minfo[39m]: ConsumerGroup [INFO]: Consumer has joined the group
+2024-09-23T10:38:19.427Z [[32minfo[39m]: Received message: Hello KafkaJS user!
+2024-09-23T10:45:57.487Z [[32minfo[39m]: undefined [WARN]: KafkaJS v2.0.0 switched default partitioner. To retain the same partitioning behavior as in previous versions, create the producer with the option "createPartitioner: Partitioners.LegacyPartitioner". See the migration guide at https://kafka.js.org/docs/migration-guide-v2.0.0#producer-new-default-partitioner for details. Silence this warning by setting the environment variable "KAFKAJS_NO_PARTITIONER_WARNING=1"
+2024-09-23T10:45:57.521Z [[32minfo[39m]: Kafka producer connected
+2024-09-23T10:45:57.589Z [[32minfo[39m]: Connection [ERROR]: Response Metadata(key: 3, version: 6)
+2024-09-23T10:45:57.956Z [[32minfo[39m]: Kafka consumer connected
+2024-09-23T10:45:57.959Z [[32minfo[39m]: Consumer [INFO]: Starting
+2024-09-23T10:46:24.925Z [[32minfo[39m]: ConsumerGroup [INFO]: Consumer has joined the group
+2024-09-23T10:46:24.948Z [[32minfo[39m]: Received message: Hello KafkaJS user!
+2024-09-23T11:01:03.557Z [[32minfo[39m]: undefined [WARN]: KafkaJS v2.0.0 switched default partitioner. To retain the same partitioning behavior as in previous versions, create the producer with the option "createPartitioner: Partitioners.LegacyPartitioner". See the migration guide at https://kafka.js.org/docs/migration-guide-v2.0.0#producer-new-default-partitioner for details. Silence this warning by setting the environment variable "KAFKAJS_NO_PARTITIONER_WARNING=1"
+2024-09-23T11:01:03.592Z [[32minfo[39m]: Kafka producer connected
+2024-09-23T11:01:03.624Z [[32minfo[39m]: Kafka consumer connected
+2024-09-23T11:01:03.626Z [[32minfo[39m]: Consumer [INFO]: Starting
+2024-09-23T11:01:30.593Z [[32minfo[39m]: ConsumerGroup [INFO]: Consumer has joined the group
+2024-09-23T11:14:21.107Z [[32minfo[39m]: RequestQueue [WARN]: Response without match
+2024-09-23T11:14:26.458Z [[32minfo[39m]: Connection [ERROR]: Response Heartbeat(key: 12, version: 3)
+2024-09-23T11:14:26.459Z [[32minfo[39m]: Runner [ERROR]: The coordinator is not aware of this member, re-joining the group
+2024-09-23T11:14:29.469Z [[32minfo[39m]: ConsumerGroup [INFO]: Consumer has joined the group
+2024-09-23T11:57:39.995Z [[32minfo[39m]: Connection [ERROR]: Response Heartbeat(key: 12, version: 3)
+2024-09-23T11:57:39.996Z [[32minfo[39m]: Runner [ERROR]: The coordinator is not aware of this member, re-joining the group
+2024-09-23T11:57:43.014Z [[32minfo[39m]: ConsumerGroup [INFO]: Consumer has joined the group
+2024-09-23T12:13:38.579Z [[32minfo[39m]: Connection [ERROR]: Response Heartbeat(key: 12, version: 3)
+2024-09-23T12:13:38.579Z [[32minfo[39m]: Runner [ERROR]: The coordinator is not aware of this member, re-joining the group
+2024-09-23T12:13:41.590Z [[32minfo[39m]: ConsumerGroup [INFO]: Consumer has joined the group
+2024-09-23T12:16:30.833Z [[32minfo[39m]: RequestQueue [WARN]: Response without match
+2024-09-23T12:16:36.558Z [[32minfo[39m]: Connection [ERROR]: Response Heartbeat(key: 12, version: 3)
+2024-09-23T12:16:36.558Z [[32minfo[39m]: Runner [ERROR]: The coordinator is not aware of this member, re-joining the group
+2024-09-23T12:16:39.569Z [[32minfo[39m]: ConsumerGroup [INFO]: Consumer has joined the group

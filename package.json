@@ -1,0 +1,15 @@
+{
+  "name": "kafka-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/jackbereson/kafka-node.git",
+  "author": "Billy JackSone <jackbereson@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "kafkajs": "^2.2.4",
+    "winston": "^3.14.2"
+  }
+}
